@@ -106,15 +106,11 @@ section > h1 {
 }
 
 .child_subblock {
-  height: 150px;
+  height: 75px;
 }
 
 .child_subblock2 {
   height: 100px;
-}
-
-.child_subblock3 {
-  height: 75px; 
 }
 
 .big {
