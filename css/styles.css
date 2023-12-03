@@ -96,7 +96,7 @@ section > h1 {
   margin: 0 0 50px;
 }
 
-.child_float, .child_subblock, .child_subblock2, .child_subblock3 {
+.child_float, .child_subblock {
   outline: 1px solid black;  
 }  
 
@@ -109,10 +109,6 @@ section > h1 {
   height: 75px;
 }
 
-.child_subblock2 {
-  height: 100px;
-}
-
 .big {
   width: 800px;
 }
@@ -123,6 +119,10 @@ section > h1 {
 
 .notsotall {
   height: 150px;
+}
+
+.nottall {
+  height: 100px;
 }
 
 .clr {
